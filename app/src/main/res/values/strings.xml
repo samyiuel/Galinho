@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Galinho</string>
+    <string name="set_new_alarm">Setar novo alarme</string>
+    <string name="your_alarms">Seus alarmes</string>
+    <string name="time">00:00, dd/mm/yyyy</string>
+    <string name="create_new_alarm">Crie um novo alarme</string>
 </resources>
